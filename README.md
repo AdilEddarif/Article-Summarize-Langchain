@@ -1,7 +1,3 @@
-Based on the provided report for your article summarizer app and the update that you used ChromaDB instead of Pinecone, here’s a tailored GitHub README file to help others understand and set up your project.
-
----
-
 # Article Summarizer App
 
 ## Overview
