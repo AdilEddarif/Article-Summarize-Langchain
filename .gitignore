@@ -1,0 +1,13 @@
+node_modules/
+venv/
+*.log
+__pycache__/
+*.pyc
+.env
+backend
+frontend/dist/
+backend-flask/venv/
+backend-flask/*.log
+backend-flask/__pycache__/
+backend-flask/*.pyc
+backend-flask/.env
