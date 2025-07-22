@@ -89,8 +89,8 @@ The project successfully delivers a functional tool for academic summarization, 
 ## Setup Instructions
 1. **Clone the Repository**:
    ```
-   git clone https://github.com/yourusername/rattrappage-nlp.git
-   cd rattrappage-nlp
+   https://github.com/AdilEddarif/Article-Summarize-Langchain.git
+   cd Article-Summarize-Langchain
    ```
 
 2. **Backend Setup (Flask)**:
